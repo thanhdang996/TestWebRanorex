@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="7.21s"
+		durationms="7211"
+		type="root"
+		rid="27c122e8c582248"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="Admin"
+		rxversion="10.2.3.0"
+		host="ADMIN"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="15/9/2022 2:23:26 PM"
+		timestampiso="2022-09-15T07:23:26"
+		endtime="15/9/2022 2:23:33 PM"
+		timeoutfactor="1"
+		runid=""
+		sutversion="">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.192"
+			timeRelativeToTestModuleStartTime="00:07.192"
+			timeWallClock="14:23:33"
+			time="00:07.192"
+			level="Failure"
+			category="Licensing">
+			<message>
+				The License Manager 'HTSC1D1OSQLDV20' could not be contacted. Please check your network connection and make sure the Ranorex License Manager is running.
+			</message>
+			<metainfo
+				loglvl="Failure">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -93,6 +93,12 @@
 					variableid="2d2759dc-d474-4635-b9cc-7d4b92b0680c"
 					variablename="url">
 					</var>
+					<var
+					dataname="parOneUrl"
+					datasourceid="3b4c3a4d-5863-483b-8474-bc59e52e2b6e"
+					variableid="53485ca4-a6a3-4b3d-abe0-8be8be4fc784"
+					variablename="newOneUrl">
+					</var>
 				</missingdatabinding>
 			</testmodule>
 			<testmodule
