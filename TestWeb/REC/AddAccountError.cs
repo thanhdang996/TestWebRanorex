@@ -92,21 +92,21 @@ namespace TestWeb.REC
 
             Init();
 
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'ApplicationUnderTest.HomePage.BtnSignIn' at 28;19.", repo.ApplicationUnderTest.HomePage.BtnSignInInfo, new RecordItemIndex(0));
-            repo.ApplicationUnderTest.HomePage.BtnSignIn.Click("28;19");
-            Delay.Milliseconds(0);
+            //Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'ApplicationUnderTest.HomePage.BtnSignIn' at 28;19.", repo.ApplicationUnderTest.HomePage.BtnSignInInfo, new RecordItemIndex(0));
+            //repo.ApplicationUnderTest.HomePage.BtnSignIn.Click("28;19");
+            //Delay.Milliseconds(0);
             
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeft' at 150;10.", repo.ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeftInfo, new RecordItemIndex(1));
-            repo.ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeft.Click("150;10");
-            Delay.Milliseconds(0);
+            //Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeft' at 150;10.", repo.ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeftInfo, new RecordItemIndex(1));
+            //repo.ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeft.Click("150;10");
+            //Delay.Milliseconds(0);
             
-            Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'black@#!@@gmail.com' with focus on 'ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeft'.", repo.ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeftInfo, new RecordItemIndex(2));
-            repo.ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeft.PressKeys("black@#!@@gmail.com");
-            Delay.Milliseconds(0);
+            //Report.Log(ReportLevel.Info, "Keyboard", "Key sequence 'black@#!@@gmail.com' with focus on 'ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeft'.", repo.ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeftInfo, new RecordItemIndex(2));
+            //repo.ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeft.PressKeys("black@#!@@gmail.com");
+            //Delay.Milliseconds(0);
             
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'ApplicationUnderTest.AuthenticationPage.BtnCreateAccount' at 56;25.", repo.ApplicationUnderTest.AuthenticationPage.BtnCreateAccountInfo, new RecordItemIndex(3));
-            repo.ApplicationUnderTest.AuthenticationPage.BtnCreateAccount.Click("56;25");
-            Delay.Milliseconds(0);
+            //Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'ApplicationUnderTest.AuthenticationPage.BtnCreateAccount' at 56;25.", repo.ApplicationUnderTest.AuthenticationPage.BtnCreateAccountInfo, new RecordItemIndex(3));
+            //repo.ApplicationUnderTest.AuthenticationPage.BtnCreateAccount.Click("56;25");
+            //Delay.Milliseconds(0);
             
             //Report.Log(ReportLevel.Info, "Validation", "Validating AttributeEqual (InnerText='Invalid email address.') on item 'ApplicationUnderTest.AuthenticationPage.InvalidEmailMessage'.", repo.ApplicationUnderTest.AuthenticationPage.InvalidEmailMessageInfo, new RecordItemIndex(4));
             //Validate.AttributeEqual(repo.ApplicationUnderTest.AuthenticationPage.InvalidEmailMessageInfo, "InnerText", "Invalid email address.");
