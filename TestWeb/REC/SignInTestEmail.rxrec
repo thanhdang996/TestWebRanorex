@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="aa746f95-ed45-4d8f-b3c2-959ac7521e48"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="SignInTestEmail"
+	namespace="TestWeb.REC">
+	</codegen>
+	<variables>
+		<var
+		id="a2063421-d4ac-49d2-97e7-da1c7a9fcfd8"
+		name="DumpEmail">
+			abc123
+		</var>
+	</variables>
+	<recorditems>
+		<keysequenceitem
+		KeySequence="abc123"
+		duration="20ms"
+		enabled="True"
+		optional="False"
+		presstime="20ms"
+		searchpropertyid="1003c7ed-00c1-4693-aa83-363dd9fe4910">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="KeySequence"
+				variable="DumpEmail">
+				</binding>
+			</bindings>
+			<info
+			id="49bb5038-bd7f-4e33-baf0-5c2bf920fd61"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='automationpractice.com']//?/a[@innertext='Sign in']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</keysequenceitem>
+	</recorditems>
+	<repository
+	id="4e5819c7-38b4-43f8-9653-7be8528e273d"
+	name="TestWebRepository"
+	relativepath="..\TestWebRepository.rxrep">
+		<codegen
+		classname="TestWebRepository"
+		namespace="TestWeb">
+		</codegen>
+		<rootfolder
+		id="d97f7e89-6c92-4586-9704-5a2808fe78ac"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		SignInTestEmail.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

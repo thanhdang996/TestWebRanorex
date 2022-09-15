@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\bin\Debug\TestWeb.rxtmg
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\bin\Debug\TestWeb.rxtst
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\bin\Debug\TestWeb.exe.config
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\bin\Debug\TestWeb.xml
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\bin\Debug\TestWeb.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\bin\Debug\TestWeb.pdb
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\obj\x86\Debug\TestWeb.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\obj\x86\Debug\TestWeb.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\obj\x86\Debug\TestWeb.pdb

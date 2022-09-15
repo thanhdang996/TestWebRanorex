@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="7.18s"
+		durationms="7177"
+		type="root"
+		rid="68828e06f3500"
+		totalerrorcount="0"
+		totalwarningcount="2"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="Admin"
+		rxversion="10.2.3.0"
+		host="ADMIN"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="15/9/2022 10:16:04 AM"
+		timestampiso="2022-09-15T03:16:04"
+		endtime="15/9/2022 10:16:11 AM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="AddAccountError">
+		<detail>
+			AddAccountError
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.048"
+			timeRelativeToTestModuleStartTime="00:03.048"
+			timeWallClock="10:16:07"
+			time="00:03.048"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>newUrl
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.071"
+			timeRelativeToTestModuleStartTime="00:03.071"
+			timeWallClock="10:16:07"
+			time="00:03.071"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.HomePage.BtnSignIn' at 28;19.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='automationpractice.com']//?/a[@innertext='Sign in']"
+				itempath=".//?/a[@innertext='Sign in']"
+				fullname="TestWebRepository.ApplicationUnderTest.HomePage.BtnSignIn"
+				id="c0a6bad10b884de8a14c35b80bb5735e"
+				timeout="60000"
+				codefile="c:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\REC\AddAccountError.cs"
+				codeline="95"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.848"
+			timeRelativeToTestModuleStartTime="00:04.848"
+			timeWallClock="10:16:09"
+			time="00:04.848"
+			level="Warn"
+			category="Click"
+			errimg="images_AddAccou_bd9f685c\AddAccou_fd95d0d1_rxlog.jpg"
+			errthumb="images_AddAccou_bd9f685c\AddAccou_fd95d0d1_rxlog_thumb.jpg">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+			</message>
+			<metainfo
+				codefile="c:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\REC\AddAccountError.cs"
+				codeline="96"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.403"
+			timeRelativeToTestModuleStartTime="00:05.403"
+			timeWallClock="10:16:10"
+			time="00:05.403"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeft' at 150;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='automationpractice.com']//input[#'email_create']"
+				itempath=".//input[#'email_create']"
+				fullname="TestWebRepository.ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeft"
+				id="49bb5038bd7f4e33baf05c2bf920fd61"
+				timeout="60000"
+				codefile="c:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\REC\AddAccountError.cs"
+				codeline="99"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.952"
+			timeRelativeToTestModuleStartTime="00:05.952"
+			timeWallClock="10:16:10"
+			time="00:05.952"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'black@#!@@gmail.com' with focus on 'ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeft'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='automationpractice.com']//input[#'email_create']"
+				itempath=".//input[#'email_create']"
+				fullname="TestWebRepository.ApplicationUnderTest.AuthenticationPage.InputEmailAddressLeft"
+				id="49bb5038bd7f4e33baf05c2bf920fd61"
+				timeout="60000"
+				codefile="c:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\REC\AddAccountError.cs"
+				codeline="103"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.584"
+			timeRelativeToTestModuleStartTime="00:06.584"
+			timeWallClock="10:16:11"
+			time="00:06.584"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.AuthenticationPage.BtnCreateAccount' at 56;25.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='automationpractice.com']//button[#'SubmitCreate']"
+				itempath=".//button[#'SubmitCreate']"
+				fullname="TestWebRepository.ApplicationUnderTest.AuthenticationPage.BtnCreateAccount"
+				id="5b94ac316bda459cb663ec0f4ca5f3d1"
+				timeout="60000"
+				codefile="c:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\REC\AddAccountError.cs"
+				codeline="107"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.120"
+			timeRelativeToTestModuleStartTime="00:07.120"
+			timeWallClock="10:16:11"
+			time="00:07.120"
+			level="Info"
+			category="Website">
+			<message>
+				Opening web site URL in variable $newUrl with browser 'Chrome' in normal mode.
+			</message>
+			<metainfo
+				itemindex="5"
+				codefile="c:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\REC\AddAccountError.cs"
+				codeline="115"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

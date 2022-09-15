@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="dcf72899-0a43-4ea7-a941-74fe0c1b8f9c"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="ProceedBuyer"
+	namespace="TestWeb.REC">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Move"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="710d5b61-e205-49c8-803a-1738b6c7b0c9"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="9e804264-181c-4965-955f-487bb5b8cfa4"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='automationpractice.com']///a[@title='View my shopping cart']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="d59a4c52-061d-496a-8358-d7afc7e9dfb5"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="6e9ac1ea-4b01-41e3-b14a-80945a159459"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='automationpractice.com']//div[@class='cart_block block exclusive' and @style~'display: block']//a[@id='button_order_cart']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="635168b4-3211-41ca-8fdb-27d713d2f7c6"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="76d4847e-863b-4f3b-a504-52dccd1fc60d"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='automationpractice.com']//div[#'center_column']//span[@innertext='Proceed to checkout']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</mouseitem>
+		<keysequenceitem
+		KeySequence="None"
+		duration="20ms"
+		enabled="True"
+		optional="False"
+		presstime="20ms"
+		searchpropertyid="9d2f232c-9da8-475b-8181-958ca06deea4">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="fe18b7e5-cd06-4840-95bc-6a23074efc29"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='automationpractice.com']//div[#'ordermsg']/textarea[@required='False']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</keysequenceitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="37c6a954-3bd9-4b9b-af6d-cc9c6b3b606f"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="76d4847e-863b-4f3b-a504-52dccd1fc60d"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='automationpractice.com']//div[#'center_column']//span[@innertext='Proceed to checkout']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="00494c2a-9df1-4f29-893d-f87005690b6d"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="9287a437-24f8-4a29-8361-67e994a2bc85"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='automationpractice.com']//div[#'uniform-cgv']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="af7e3b95-e483-454d-b953-48f0bb386adf"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="76d4847e-863b-4f3b-a504-52dccd1fc60d"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='automationpractice.com']//div[#'center_column']//span[@innertext='Proceed to checkout']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="1a1a9508-2cd9-4c32-83c9-7945d108db5d"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="d9e85a46-652a-44d3-a3a4-e97a0a3dfa9d"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='automationpractice.com']//div[#'center_column']/div/div[3]//a[@innertext&gt;'                Pay by check']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="1868c01d-7e00-484d-8d08-59951faed0c8"
+		sx="0"
+		sy="0"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="2c4f5258-8421-463d-a11c-10d7bb1e0e21"
+			sourcename="RepositoryEditor">
+				<path>
+					/dom[@domain='automationpractice.com']//p[#'cart_navigation']/?/?/span[@innertext='I confirm my order']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</mouseitem>
+		<validationitem
+		action="AttributeEqual"
+		duration="100ms"
+		enabled="True"
+		optional="False"
+		searchpropertyid="8e8dde77-4414-4274-bbf5-99f7196b63ee">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="35191456-e5a9-47ce-ac95-a093534ef6c0"
+			sourcename="ElementTree">
+				<element
+				capabilities="webelement, ptag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="2"
+				prefcap="ptag"
+				rect="367,653,1170,51"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						alert alert-success
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						Your order on My Store is complete.
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						alert alert-success
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						p
+					</attribute>
+				</element>
+				<path>
+					/dom[@domain='automationpractice.com']//div[#'center_column']/p[@innertext&gt;'Your order on My Store is']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="a28186bd-babf-4b32-ba5d-e06355c394c7">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAH0AfQDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBNi/3R+VGxf7o/KlooATYv90fl
+RsX+6PypaKAE2L/dH5UbF/uj8qWigBNi/wB0flRsX+6PypaKAE2L/dH5UbF/uj8qWigBNi/3R+VG
+xf7o/KlooATYv90flRsX+6PypaKAE2L/AHR+VGxf7o/KlooATYv90flRsX+6PypaKAE2L/dH5UbF
+/uj8qWigBNi/3R+VGxf7o/KlooATYv8AdH5UbF/uj8qWigBNi/3R+VGxf7o/KlooATYv90flRsX+
+6PypaKAE2L/dH5UbF/uj8qWigBNi/wB0flRsX+6PypaKAE2L/dH5UbF/uj8qWigBNi/3R+VGxf7o
+/KlooATYv90flRsX+6PypaKAE2L/AHR+VGxf7o/KlooATYv90flRsX+6PypaKAE2L/dH5UbF/uj8
+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
+UUAR+TF/zzX8qPJi/wCea/lUlFAEfkxf881/KjyYv+ea/lUlFAEfkxf881/KjyYv+ea/lUlFAEfk
+xf8APNfyo8mL/nmv5VJRQBH5MX/PNfyo8mL/AJ5r+VSUUAR+TF/zzX8qPJi/55r+VSUUAR+TF/zz
+X8qPJi/55r+VSUUAR+TF/wA81/KjyYv+ea/lUlFAEfkxf881/KjyYv8Anmv5VJRQBH5MX/PNfyo8
+mL/nmv5VJRQBH5MX/PNfyo8mL/nmv5VJRQBH5MX/ADzX8qPJi/55r+VSUUAR+TF/zzX8qPJi/wCe
+a/lUlFAEfkxf881/KjyYv+ea/lUlFAEfkxf881/KjyYv+ea/lUlFAEfkxf8APNfyo8mL/nmv5VJR
+QBH5MX/PNfyo8mL/AJ5r+VSUUAR+TF/zzX8qPJi/55r+VSUUAR+TF/zzX8qPJi/55r+VSUUAR+TF
+/wA81/KjyYv+ea/lUlFAEfkxf881/KjyYv8Anmv5VJRQBH5MX/PNfyo8mL/nmv5VJRQBH5MX/PNf
+yo8mL/nmv5VJRQBH5MX/ADzX8qKkooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAIvtdt/el
+/wC/Y/8AiqPtdt/el/79j/4quiorX2Zv7I537Xbf3pf+/Y/+Ko+12396X/v2P/iq6Kij2YeyOd+1
+2396X/v2P/iqPtdt/el/79j/AOKroqKPZh7I537Xbf3pf+/Y/wDiqPtdt/el/wC/Y/8Aiq6Kij2Y
+eyOd+12396X/AL9j/wCKo+12396X/v2P/iq6Kij2YeyOd+12396X/v2P/iqPtdt/el/79j/4quio
+o9mHsjnftdt/el/79j/4qj7Xbf3pf+/Y/wDiq6Kij2YeyOd+12396X/v2P8A4qj7Xbf3pf8Av2P/
+AIquioo9mHsjnftdt/el/wC/Y/8AiqPtdt/el/79j/4quioo9mHsjnftdt/el/79j/4qj7Xbf3pf
++/Y/+KroqKPZh7I537Xbf3pf+/Y/+Ko+12396X/v2P8A4quioo9mHsjnftdt/el/79j/AOKo+123
+96X/AL9j/wCKroqKPZh7I537Xbf3pf8Av2P/AIqj7Xbf3pf+/Y/+KroqKPZh7I537Xbf3pf+/Y/+
+Ko+12396X/v2P/iq6Kij2YeyOd+12396X/v2P/iqPtdt/el/79j/AOKroqKPZh7I537Xbf3pf+/Y
+/wDiqPtdt/el/wC/Y/8Aiq6Kij2YeyOd+12396X/AL9j/wCKo+12396X/v2P/iq6Kij2YeyOd+12
+396X/v2P/iqPtdt/el/79j/4quioo9mHsjnftdt/el/79j/4qj7Xbf3pf+/Y/wDiq6Kij2YeyOd+
+12396X/v2P8A4qj7Xbf3pf8Av2P/AIquioo9mHsjnftdt/el/wC/Y/8AiqPtdt/el/79j/4quioo
+9mHsjnftdt/el/79j/4qj7Xbf3pf+/Y/+KroqKPZh7I537Xbf3pf+/Y/+Ko+12396X/v2P8A4qui
+oo9mHsjnftdt/el/79j/AOKo+12396X/AL9j/wCKroqKPZh7I537Xbf3pf8Av2P/AIqj7Xbf3pf+
+/Y/+KroqKPZh7I537Xbf3pf+/Y/+Ko+12396X/v2P/iq6Kij2YeyOd+12396X/v2P/iqPtdt/el/
+79j/AOKroqKPZh7I537Xbf3pf+/Y/wDiqPtdt/el/wC/Y/8Aiq6Kij2YeyOd+12396X/AL9j/wCK
+o+12396X/v2P/iq6Kij2YeyOd+12396X/v2P/iqPtdt/el/79j/4quioo9mHsjnftdt/el/79j/4
+qj7Xbf3pf+/Y/wDiq6Kij2YeyOd+12396X/v2P8A4qiuioo9mHshN49/yNG8e/5GiitDYN49/wAj
+RvHv+RoooAN49/yNG8e/5GiigA3j3/I0bx7/AJGiigA3j3/I0bx7/kaKKADePf8AI0bx7/kaKKAD
+ePf8jRvHv+RoooAN49/yNG8e/wCRoooAN49/yNG8e/5GiigA3j3/ACNG8e/5GiigA3j3/I0bx7/k
+aKKADePf8jRvHv8AkaKKADePf8jRvHv+RoooAN49/wAjRvHv+RoooAN49/yNG8e/5GiigA3j3/I0
+bx7/AJGiigA3j3/I0bx7/kaKKADePf8AI0bx7/kaKKADePf8jRvHv+RoooAN49/yNG8e/wCRoooA
+N49/yNG8e/5GiigA3j3/ACNG8e/5GiigA3j3/I0bx7/kaKKADePf8jRvHv8AkaKKADePf8jRvHv+
+RoooAN49/wAjRvHv+RoooAN49/yNG8e/5GiigA3j3/I0bx7/AJGiigA3j3/I0bx7/kaKKADePf8A
+I0bx7/kaKKADePf8jRvHv+RoooAN49/yNFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAU
+UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFF
+ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUA
+FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAU
+UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFF
+ABRRRQAUUUUAFFFFABRSbh7/AJGjcPf8jQAtFJuHv+Ro3D3/ACNAC0Um4e/5GjcPf8jQAtFJuHv+
+Ro3D3/I0ALRSbh7/AJGjcPf8jQAtFJuHv+Ro3D3/ACNAC0Um4e/5GjcPf8jQAtFJuHv+Ro3D3/I0
+ALRSbh7/AJGjcPf8jQAtFJuHv+Ro3D3/ACNAC0Um4e/5GjcPf8jQAtFJuHv+Ro3D3/I0ALRSbh7/
+AJGjcPf8jQAtFJuHv+Ro3D3/ACNAC0Um4e/5GjcPf8jQAtFJuHv+Ro3D3/I0ALRSbh7/AJGjcPf8
+jQAtFJuHv+Ro3D3/ACNAC0Um4e/5GjcPf8jQAtFJuHv+Ro3D3/I0ALRSbh7/AJGjcPf8jQAtFJuH
+v+Ro3D3/ACNAC0Um4e/5GjcPf8jQAtFJuHv+Ro3D3/I0ALRSbh7/AJGjcPf8jQAtFJuHv+Ro3D3/
+ACNAC0Um4e/5GjcPf8jQAtFJuHv+Ro3D3/I0ALRSbh7/AJGjcPf8jQAtFJuHv+Ro3D3/ACNAC0Um
+4e/5GjcPf8jQAtFJuHv+RooAWiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiq0k0kewOY4yWIL
+N06detKZn8tSkkTlnC5UcD9aALFFV3lmj3qdjOE3KQCAcdRjNP8AOLPEI8EONxz6UAS0UUUAFFFF
+ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUA
+FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBX
+aOYsj5RmViducADGMZxSyLNIq/KgZXDAbjg/pU9FAESI5m8yTaDt2hVOf1pkEDxFySrfwoM9FqxR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUU
+UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFAH//Z
+			</helperscreenshot>
+			<matchname>
+				InnerText
+			</matchname>
+			<matchvalue>
+				Your order on My Store is complete.
+			</matchvalue>
+		</validationitem>
+	</recorditems>
+	<repository
+	id="4e5819c7-38b4-43f8-9653-7be8528e273d"
+	name="TestWebRepository"
+	relativepath="..\TestWebRepository.rxrep">
+		<codegen
+		classname="TestWebRepository"
+		namespace="TestWeb">
+		</codegen>
+		<rootfolder
+		id="d97f7e89-6c92-4586-9704-5a2808fe78ac"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		ProceedBuyer.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

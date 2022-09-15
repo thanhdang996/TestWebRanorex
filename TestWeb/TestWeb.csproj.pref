@@ -1,0 +1,23 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="REC\AddAccountError.rxrec" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="TestWeb.rxtst" />
+    <Element value="REC\AddAccountError.rxrec" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+    <Array name="recentusercodeselections">
+      <Element value="TestWeb.REC.SearchOne.CheckIsContainValueSearch(RepoItemInfo searchSuggestions, String textSearch)" />
+      <Element value="TestWeb.REC.Buy1.ValidateTotalMoney(RepoItemInfo itemPrice, RepoItemInfo totalProducts, RepoItemInfo totalShipping, RepoItemInfo totalPriceWithoutTax, RepoItemInfo taxPrice, RepoItemInfo totalPrice)" />
+      <Element value="TestWeb.REC.Buy1.ValidateQuantity(RepoItemInfo quantityItem, RepoItemInfo total)" />
+      <Element value="TestWeb.REC.BuyProductContainNameInput.BuyProductContaineNameInput(RepoItemInfo addCartRepo, RepoItemInfo btnContinueRepo, String name)" />
+      <Element value="TestWeb.REC.BuyProductContainNameInput.BuyProductContaineNameInput(RepoItemInfo cartRepo, RepoItemInfo btnContinueRepo, String name)" />
+      <Element value="TestWeb.REC.BuyProductContainNameInput.BuyProductContaineNameInput(RepoItemInfo nameProductInfo, RepoItemInfo cartRepo, RepoItemInfo btnContinueRepo, String name)" />
+    </Array>
+  </Properties>
+</Properties>

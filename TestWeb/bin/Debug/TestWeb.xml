@@ -1,0 +1,1559 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestWeb</name>
+    </assembly>
+    <members>
+        <member name="T:TestWeb.REC.AddAccountError">
+             <summary>
+            The AddAccountError recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.AddAccountError.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.AddAccountError.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.AddAccountError.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.AddAccountError.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.AddAccountError.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.AddAccountError.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.AddAccountError.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.AddAccountError.newUrl">
+            <summary>
+            Gets or sets the value of variable newUrl.
+            </summary>
+        </member>
+        <member name="T:TestWeb.REC.AddAccountSuccess">
+             <summary>
+            The AddAccountSuccess recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.AddAccountSuccess.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.AddAccountSuccess.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.AddAccountSuccess.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.AddAccountSuccess.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.AddAccountSuccess.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.AddAccountSuccess.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.AddAccountSuccess.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.AddAccountSuccess.gender">
+            <summary>
+            Gets or sets the value of variable gender.
+            </summary>
+        </member>
+        <member name="T:TestWeb.REC.Buy1">
+             <summary>
+            The Buy1 recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.Buy1.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.Buy1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.Buy1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.Buy1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.Buy1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.Buy1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.Buy1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:TestWeb.REC.BuyProductContainNameInput">
+             <summary>
+            The BuyProductContainNameInput recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.BuyProductContainNameInput.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.BuyProductContainNameInput.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.BuyProductContainNameInput.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.BuyProductContainNameInput.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.BuyProductContainNameInput.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.BuyProductContainNameInput.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.BuyProductContainNameInput.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:TestWeb.REC.BuySale">
+             <summary>
+            The BuySale recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.BuySale.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.BuySale.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.BuySale.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.BuySale.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.BuySale.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.BuySale.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.BuySale.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:TestWeb.REC.CloseBrowser">
+             <summary>
+            The CloseBrowser recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.CloseBrowser.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.CloseBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.CloseBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.CloseBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.CloseBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.CloseBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.CloseBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:TestWeb.REC.ContactUs">
+             <summary>
+            The ContactUs recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.ContactUs.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.ContactUs.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.ContactUs.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.ContactUs.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.ContactUs.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.ContactUs.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.ContactUs.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:TestWeb.REC.OpenBrowser">
+             <summary>
+            The OpenBrowser recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.OpenBrowser.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.OpenBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.OpenBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.OpenBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.OpenBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.OpenBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.OpenBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:TestWeb.REC.ProceedBuyer">
+             <summary>
+            The ProceedBuyer recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.ProceedBuyer.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.ProceedBuyer.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.ProceedBuyer.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.ProceedBuyer.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.ProceedBuyer.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.ProceedBuyer.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.ProceedBuyer.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:TestWeb.REC.SearchOne">
+             <summary>
+            The SearchOne recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.SearchOne.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.SearchOne.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.SearchOne.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.SearchOne.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.SearchOne.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.SearchOne.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.SearchOne.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:TestWeb.REC.SignInStep1">
+             <summary>
+            The SignInStep1 recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.SignInStep1.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.SignInStep1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.SignInStep1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.SignInStep1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.SignInStep1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.SignInStep1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.SignInStep1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:TestWeb.REC.SignInStep2">
+             <summary>
+            The SignInStep2 recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.SignInStep2.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.SignInStep2.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.SignInStep2.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.SignInStep2.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.SignInStep2.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.SignInStep2.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.SignInStep2.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:TestWeb.REC.SignInTestEmail">
+             <summary>
+            The SignInTestEmail recording.
+             </summary>
+        </member>
+        <member name="F:TestWeb.REC.SignInTestEmail.repo">
+            <summary>
+            Holds an instance of the global::TestWeb.TestWebRepository repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.SignInTestEmail.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.SignInTestEmail.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:TestWeb.REC.SignInTestEmail.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:TestWeb.REC.SignInTestEmail.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:TestWeb.REC.SignInTestEmail.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.SignInTestEmail.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:TestWeb.REC.SignInTestEmail.DumpEmail">
+            <summary>
+            Gets or sets the value of variable DumpEmail.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepository">
+            <summary>
+            The class representing the TestWebRepository element repository.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the TestWebRepository element repository.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepository.ApplicationUnderTest">
+            <summary>
+            The ApplicationUnderTest folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepository.LoginMyStoreGoogleChrome">
+            <summary>
+            The LoginMyStoreGoogleChrome folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepository.Open">
+            <summary>
+            The Open folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepository.ContactUsMyStoreGoogleChrome">
+            <summary>
+            The ContactUsMyStoreGoogleChrome folder.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.ApplicationUnderTestAppFolder">
+            <summary>
+            The ApplicationUnderTestAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.ApplicationUnderTestAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ApplicationUnderTest  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ApplicationUnderTestAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ApplicationUnderTestAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ApplicationUnderTestAppFolder.HomePage">
+            <summary>
+            The HomePage folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ApplicationUnderTestAppFolder.AuthenticationPage">
+            <summary>
+            The AuthenticationPage folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ApplicationUnderTestAppFolder.ContactUsPage">
+            <summary>
+            The ContactUsPage folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ApplicationUnderTestAppFolder.ShoppingCardSumary">
+            <summary>
+            The ShoppingCardSumary folder.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.HomePageFolder">
+            <summary>
+            The HomePageFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.HomePageFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new HomePage  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.HomePageFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.HomePageFolder.BtnSignIn">
+            <summary>
+            The BtnSignIn item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.HomePageFolder.BtnSignInInfo">
+            <summary>
+            The BtnSignIn item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.HomePageFolder.Search">
+            <summary>
+            The Search folder.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.SearchFolder">
+            <summary>
+            The SearchFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.SearchFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Search  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.SearchFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.SearchFolder.SearchQueryTop">
+            <summary>
+            The SearchQueryTop item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.SearchFolder.SearchQueryTopInfo">
+            <summary>
+            The SearchQueryTop item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.SearchFolder.ResultSearch">
+            <summary>
+            The ResultSearch item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.SearchFolder.ResultSearchInfo">
+            <summary>
+            The ResultSearch item info.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.AuthenticationPageFolder">
+            <summary>
+            The AuthenticationPageFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.AuthenticationPageFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new AuthenticationPage  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.AuthenticationPageFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.AuthenticationPageFolder.InputEmailAddressLeft">
+            <summary>
+            The InputEmailAddressLeft item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.AuthenticationPageFolder.InputEmailAddressLeftInfo">
+            <summary>
+            The InputEmailAddressLeft item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.AuthenticationPageFolder.BtnCreateAccount">
+            <summary>
+            The BtnCreateAccount item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.AuthenticationPageFolder.BtnCreateAccountInfo">
+            <summary>
+            The BtnCreateAccount item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.AuthenticationPageFolder.InvalidEmailMessage">
+            <summary>
+            The InvalidEmailMessage item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.AuthenticationPageFolder.InvalidEmailMessageInfo">
+            <summary>
+            The InvalidEmailMessage item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.AuthenticationPageFolder.PersonalInfo">
+            <summary>
+            The PersonalInfo folder.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder">
+            <summary>
+            The PersonalInfoFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new PersonalInfo  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.RadioTitle">
+            <summary>
+            The RadioTitle item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.RadioTitleInfo">
+            <summary>
+            The RadioTitle item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputFirstName">
+            <summary>
+            The InputFirstName item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputFirstNameInfo">
+            <summary>
+            The InputFirstName item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputLastName">
+            <summary>
+            The InputLastName item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputLastNameInfo">
+            <summary>
+            The InputLastName item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputPassword">
+            <summary>
+            The InputPassword item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputPasswordInfo">
+            <summary>
+            The InputPassword item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.SelectDay">
+            <summary>
+            The SelectDay item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.SelectDayInfo">
+            <summary>
+            The SelectDay item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.SelectMonth">
+            <summary>
+            The SelectMonth item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.SelectMonthInfo">
+            <summary>
+            The SelectMonth item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.SelectYear">
+            <summary>
+            The SelectYear item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.SelectYearInfo">
+            <summary>
+            The SelectYear item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputCompany">
+            <summary>
+            The InputCompany item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputCompanyInfo">
+            <summary>
+            The InputCompany item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputAddress1">
+            <summary>
+            The InputAddress1 item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputAddress1Info">
+            <summary>
+            The InputAddress1 item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputAddress2">
+            <summary>
+            The InputAddress2 item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputAddress2Info">
+            <summary>
+            The InputAddress2 item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputCity">
+            <summary>
+            The InputCity item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputCityInfo">
+            <summary>
+            The InputCity item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.SelectState">
+            <summary>
+            The SelectState item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.SelectStateInfo">
+            <summary>
+            The SelectState item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputZipCode">
+            <summary>
+            The InputZipCode item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputZipCodeInfo">
+            <summary>
+            The InputZipCode item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.SelectCountry">
+            <summary>
+            The SelectCountry item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.SelectCountryInfo">
+            <summary>
+            The SelectCountry item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.TextAreaAddInfo">
+            <summary>
+            The TextAreaAddInfo item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.TextAreaAddInfoInfo">
+            <summary>
+            The TextAreaAddInfo item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputMobilePhone">
+            <summary>
+            The InputMobilePhone item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputMobilePhoneInfo">
+            <summary>
+            The InputMobilePhone item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputAddressAlias">
+            <summary>
+            The InputAddressAlias item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.InputAddressAliasInfo">
+            <summary>
+            The InputAddressAlias item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.BtnRegister">
+            <summary>
+            The BtnRegister item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.PersonalInfoFolder.BtnRegisterInfo">
+            <summary>
+            The BtnRegister item info.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder">
+            <summary>
+            The ContactUsPageFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ContactUsPage  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.ValidateWelcomeToYourAccountHereYouCanMa">
+            <summary>
+            The ValidateWelcomeToYourAccountHereYouCanMa item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.ValidateWelcomeToYourAccountHereYouCanMaInfo">
+            <summary>
+            The ValidateWelcomeToYourAccountHereYouCanMa item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.ContactUs">
+            <summary>
+            The ContactUs item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.ContactUsInfo">
+            <summary>
+            The ContactUs item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.IdContact">
+            <summary>
+            The IdContact item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.IdContactInfo">
+            <summary>
+            The IdContact item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.IdOrder">
+            <summary>
+            The IdOrder item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.IdOrderInfo">
+            <summary>
+            The IdOrder item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.FileUpload">
+            <summary>
+            The FileUpload item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.FileUploadInfo">
+            <summary>
+            The FileUpload item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.Message">
+            <summary>
+            The Message item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.MessageInfo">
+            <summary>
+            The Message item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.Send">
+            <summary>
+            The Send item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.SendInfo">
+            <summary>
+            The Send item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.YourMessageHasBeenSuccessfullySent">
+            <summary>
+            The YourMessageHasBeenSuccessfullySent item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.YourMessageHasBeenSuccessfullySentInfo">
+            <summary>
+            The YourMessageHasBeenSuccessfullySent item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.ChoosenSubjectHeading">
+            <summary>
+            The ChoosenSubjectHeading item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.ChoosenSubjectHeadingInfo">
+            <summary>
+            The ChoosenSubjectHeading item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.ShowOptionSpan">
+            <summary>
+            The ShowOptionSpan item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.ShowOptionSpanInfo">
+            <summary>
+            The ShowOptionSpan item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.Email">
+            <summary>
+            The Email item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsPageFolder.EmailInfo">
+            <summary>
+            The Email item info.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder">
+            <summary>
+            The ShoppingCardSumaryFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ShoppingCardSumary  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.ContinueShopping">
+            <summary>
+            The ContinueShopping item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.ContinueShoppingInfo">
+            <summary>
+            The ContinueShopping item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.SpanTagCheckOut">
+            <summary>
+            The SpanTagCheckOut item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.SpanTagCheckOutInfo">
+            <summary>
+            The SpanTagCheckOut item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.TextAreaAddComment">
+            <summary>
+            The TextAreaAddComment item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.TextAreaAddCommentInfo">
+            <summary>
+            The TextAreaAddComment item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.InputTagCgv">
+            <summary>
+            The InputTagCgv item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.InputTagCgvInfo">
+            <summary>
+            The InputTagCgv item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.SpanTagProceedToCheckout">
+            <summary>
+            The SpanTagProceedToCheckout item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.SpanTagProceedToCheckoutInfo">
+            <summary>
+            The SpanTagProceedToCheckout item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.IConfirmMyOrder">
+            <summary>
+            The IConfirmMyOrder item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.IConfirmMyOrderInfo">
+            <summary>
+            The IConfirmMyOrder item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.Homefeatured">
+            <summary>
+            The Homefeatured folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.CenterColumn">
+            <summary>
+            The CenterColumn folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.ItemSelect">
+            <summary>
+            The ItemSelect folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.QuantityItem">
+            <summary>
+            The QuantityItem folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ShoppingCardSumaryFolder.ItemSaleSelect">
+            <summary>
+            The ItemSaleSelect folder.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.HomefeaturedFolder">
+            <summary>
+            The HomefeaturedFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.HomefeaturedFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Homefeatured  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.HomefeaturedFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.HomefeaturedFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.HomefeaturedFolder.AddToCart">
+            <summary>
+            The AddToCart item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.HomefeaturedFolder.AddToCartInfo">
+            <summary>
+            The AddToCart item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.HomefeaturedFolder.AddToCart1">
+            <summary>
+            The AddToCart1 item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.HomefeaturedFolder.AddToCart1Info">
+            <summary>
+            The AddToCart1 item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.HomefeaturedFolder.AddToCart2">
+            <summary>
+            The AddToCart2 item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.HomefeaturedFolder.AddToCart2Info">
+            <summary>
+            The AddToCart2 item info.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.CenterColumnFolder">
+            <summary>
+            The CenterColumnFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new CenterColumn  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.ProceedToCheckout">
+            <summary>
+            The ProceedToCheckout item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.ProceedToCheckoutInfo">
+            <summary>
+            The ProceedToCheckout item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.PayByCheck">
+            <summary>
+            The PayByCheck item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.PayByCheckInfo">
+            <summary>
+            The PayByCheck item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.ProceedToCheckout1">
+            <summary>
+            The ProceedToCheckout1 item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.ProceedToCheckout1Info">
+            <summary>
+            The ProceedToCheckout1 item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.YourOrderOnMyStoreIsComplete">
+            <summary>
+            The YourOrderOnMyStoreIsComplete item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.YourOrderOnMyStoreIsCompleteInfo">
+            <summary>
+            The YourOrderOnMyStoreIsComplete item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.FormGroupSelector1">
+            <summary>
+            The FormGroupSelector1 item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.CenterColumnFolder.FormGroupSelector1Info">
+            <summary>
+            The FormGroupSelector1 item info.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.ItemSelectFolder">
+            <summary>
+            The ItemSelectFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.ItemSelectFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ItemSelect  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSelectFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSelectFolder.Item1">
+            <summary>
+            The Item1 item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSelectFolder.Item1Info">
+            <summary>
+            The Item1 item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSelectFolder.Item2">
+            <summary>
+            The Item2 item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSelectFolder.Item2Info">
+            <summary>
+            The Item2 item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSelectFolder.Item3">
+            <summary>
+            The Item3 item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSelectFolder.Item3Info">
+            <summary>
+            The Item3 item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSelectFolder.HoverCart">
+            <summary>
+            The HoverCart item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSelectFolder.HoverCartInfo">
+            <summary>
+            The HoverCart item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSelectFolder.NameProduct">
+            <summary>
+            The NameProduct item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSelectFolder.NameProductInfo">
+            <summary>
+            The NameProduct item info.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.QuantityItemFolder">
+            <summary>
+            The QuantityItemFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new QuantityItem  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.QuantityItemRepo">
+            <summary>
+            The QuantityItemRepo item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.QuantityItemRepoInfo">
+            <summary>
+            The QuantityItemRepo item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.TotalQuantityItem">
+            <summary>
+            The TotalQuantityItem item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.TotalQuantityItemInfo">
+            <summary>
+            The TotalQuantityItem item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.ItemPrice">
+            <summary>
+            The ItemPrice item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.ItemPriceInfo">
+            <summary>
+            The ItemPrice item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.TotalProducts">
+            <summary>
+            The TotalProducts item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.TotalProductsInfo">
+            <summary>
+            The TotalProducts item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.TotalShipping">
+            <summary>
+            The TotalShipping item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.TotalShippingInfo">
+            <summary>
+            The TotalShipping item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.TotalPriceWithoutTax">
+            <summary>
+            The TotalPriceWithoutTax item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.TotalPriceWithoutTaxInfo">
+            <summary>
+            The TotalPriceWithoutTax item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.TaxPrice">
+            <summary>
+            The TaxPrice item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.TaxPriceInfo">
+            <summary>
+            The TaxPrice item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.TotalPrice">
+            <summary>
+            The TotalPrice item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.QuantityItemFolder.TotalPriceInfo">
+            <summary>
+            The TotalPrice item info.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.ItemSaleSelectFolder">
+            <summary>
+            The ItemSaleSelectFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.ItemSaleSelectFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ItemSaleSelect  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSaleSelectFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSaleSelectFolder.ItemSale">
+            <summary>
+            The ItemSale item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSaleSelectFolder.ItemSaleInfo">
+            <summary>
+            The ItemSale item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSaleSelectFolder.AddToCart">
+            <summary>
+            The AddToCart item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ItemSaleSelectFolder.AddToCartInfo">
+            <summary>
+            The AddToCart item info.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.LoginMyStoreGoogleChromeAppFolder">
+            <summary>
+            The LoginMyStoreGoogleChromeAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.LoginMyStoreGoogleChromeAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new LoginMyStoreGoogleChrome  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.LoginMyStoreGoogleChromeAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.LoginMyStoreGoogleChromeAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.OpenAppFolder">
+            <summary>
+            The OpenAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.OpenAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Open  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.OpenAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.OpenAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.OpenAppFolder.BaselineImage">
+            <summary>
+            The BaselineImage item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.OpenAppFolder.BaselineImageInfo">
+            <summary>
+            The BaselineImage item info.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.OpenAppFolder.ButtonOpen">
+            <summary>
+            The ButtonOpen item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.OpenAppFolder.ButtonOpenInfo">
+            <summary>
+            The ButtonOpen item info.
+            </summary>
+        </member>
+        <member name="T:TestWeb.TestWebRepositoryFolders.ContactUsMyStoreGoogleChromeAppFolder">
+            <summary>
+            The ContactUsMyStoreGoogleChromeAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:TestWeb.TestWebRepositoryFolders.ContactUsMyStoreGoogleChromeAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ContactUsMyStoreGoogleChrome  folder.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsMyStoreGoogleChromeAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:TestWeb.TestWebRepositoryFolders.ContactUsMyStoreGoogleChromeAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>
