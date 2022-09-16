@@ -3,12 +3,12 @@
 	progress="">
 	<activity
 		result="Success"
-		duration="6.32s"
-		durationms="6318"
+		duration="6.99s"
+		durationms="6986"
 		type="root"
-		rid="15fc79b0cac8168"
+		rid="844c4ae74f0a3b2"
 		totalerrorcount="0"
-		totalwarningcount="1"
+		totalwarningcount="0"
 		totalsuccesstestcasecount="1"
 		totalfailedtestcasecount="0"
 		totalblockedtestcasecount="0"
@@ -28,9 +28,9 @@
 		oslanguage="en-US"
 		dtnlanguage="en-US"
 		screenresolution="1920x1080"
-		timestamp="15/9/2022 10:21:02 AM"
-		timestampiso="2022-09-15T03:21:02"
-		endtime="15/9/2022 10:21:08 AM"
+		timestamp="16/9/2022 9:11:48 AM"
+		timestampiso="2022-09-16T02:11:48"
+		endtime="16/9/2022 9:11:55 AM"
 		timeoutfactor="1"
 		runid=""
 		sutversion="">
@@ -39,12 +39,12 @@
 		</detail>
 		<activity
 			result="Success"
-			duration="3.92s"
-			durationms="3915"
+			duration="4.28s"
+			durationms="4282"
 			type="test-suite"
-			rid="1893aa45b56dcb48"
+			rid="e20d83e575c4b46"
 			totalerrorcount="0"
-			totalwarningcount="1"
+			totalwarningcount="0"
 			totalsuccesstestcasecount="1"
 			totalfailedtestcasecount="0"
 			totalblockedtestcasecount="0"
@@ -62,17 +62,17 @@
 			<params>
 				<param
 					name="parUrl">
-					dota2.com
+					parent.com
 				</param>
 			</params>
 			<activity
 				result="Success"
-				duration="3.89s"
-				durationms="3891"
+				duration="4.25s"
+				durationms="4254"
 				type="test-case"
-				rid="1cee437336dae0e2"
+				rid="1c5811715537ae2b"
 				totalerrorcount="0"
-				totalwarningcount="1"
+				totalwarningcount="0"
 				totalsuccesstestcasecount="1"
 				totalfailedtestcasecount="0"
 				totalblockedtestcasecount="0"
@@ -92,12 +92,12 @@
 				conditionstate="none">
 				<activity
 					result="Success"
-					duration="3.86s"
-					durationms="3855"
+					duration="4.22s"
+					durationms="4223"
 					type="test-module"
-					rid="30595036ba593ef5"
+					rid="bd071115872cc2"
 					totalerrorcount="0"
-					totalwarningcount="1"
+					totalwarningcount="0"
 					totalsuccesstestcasecount="0"
 					totalfailedtestcasecount="0"
 					totalblockedtestcasecount="0"
@@ -118,28 +118,28 @@
 					<varbindings>
 						<varbinding
 							name="newUrl"
-							value="dota2.com">
+							value="parent.com">
 						</varbinding>
 					</varbindings>
 					<item
-						timeRelativeToTestSuiteStartTime="00:00.060"
-						timeRelativeToTestModuleStartTime="00:00.010"
-						timeWallClock="10:21:04"
-						time="00:00.060"
+						timeRelativeToTestSuiteStartTime="00:00.061"
+						timeRelativeToTestModuleStartTime="00:00.007"
+						timeWallClock="09:11:51"
+						time="00:00.061"
 						level="Info"
 						category="Data">
 						<message>
-							Current variable values:<br/>$newUrl = 'dota2.com'
+							Current variable values:<br/>$newUrl = 'parent.com'
 						</message>
 						<metainfo
 							loglvl="Info">
 						</metainfo>
 					</item>
 					<item
-						timeRelativeToTestSuiteStartTime="00:00.124"
-						timeRelativeToTestModuleStartTime="00:00.073"
-						timeWallClock="10:21:04"
-						time="00:00.124"
+						timeRelativeToTestSuiteStartTime="00:00.123"
+						timeRelativeToTestModuleStartTime="00:00.069"
+						timeWallClock="09:11:51"
+						time="00:00.123"
 						level="Info"
 						category="Mouse">
 						<message>
@@ -159,28 +159,10 @@
 						</metainfo>
 					</item>
 					<item
-						timeRelativeToTestSuiteStartTime="00:01.503"
-						timeRelativeToTestModuleStartTime="00:01.452"
-						timeWallClock="10:21:06"
-						time="00:01.503"
-						level="Warn"
-						category="Click"
-						errimg="images_TestWeb__2aaf2c94\TestWeb__8fe51b81_rxlog.jpg"
-						errthumb="images_TestWeb__2aaf2c94\TestWeb__8fe51b81_rxlog_thumb.jpg">
-						<message>
-							The mouse action was performed outside the boundaries of the assigned UI element.<br/>
-						</message>
-						<metainfo
-							codefile="c:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\TestWeb\TestWeb\REC\AddAccountError.cs"
-							codeline="96"
-							loglvl="Warn">
-						</metainfo>
-					</item>
-					<item
-						timeRelativeToTestSuiteStartTime="00:02.029"
-						timeRelativeToTestModuleStartTime="00:01.978"
-						timeWallClock="10:21:06"
-						time="00:02.029"
+						timeRelativeToTestSuiteStartTime="00:02.432"
+						timeRelativeToTestModuleStartTime="00:02.378"
+						timeWallClock="09:11:54"
+						time="00:02.432"
 						level="Info"
 						category="Mouse">
 						<message>
@@ -200,10 +182,10 @@
 						</metainfo>
 					</item>
 					<item
-						timeRelativeToTestSuiteStartTime="00:02.596"
-						timeRelativeToTestModuleStartTime="00:02.546"
-						timeWallClock="10:21:07"
-						time="00:02.596"
+						timeRelativeToTestSuiteStartTime="00:02.997"
+						timeRelativeToTestModuleStartTime="00:02.943"
+						timeWallClock="09:11:54"
+						time="00:02.997"
 						level="Info"
 						category="Keyboard">
 						<message>
@@ -223,10 +205,10 @@
 						</metainfo>
 					</item>
 					<item
-						timeRelativeToTestSuiteStartTime="00:03.253"
-						timeRelativeToTestModuleStartTime="00:03.203"
-						timeWallClock="10:21:07"
-						time="00:03.253"
+						timeRelativeToTestSuiteStartTime="00:03.616"
+						timeRelativeToTestModuleStartTime="00:03.563"
+						timeWallClock="09:11:55"
+						time="00:03.616"
 						level="Info"
 						category="Mouse">
 						<message>
@@ -246,10 +228,10 @@
 						</metainfo>
 					</item>
 					<item
-						timeRelativeToTestSuiteStartTime="00:03.813"
-						timeRelativeToTestModuleStartTime="00:03.762"
-						timeWallClock="10:21:08"
-						time="00:03.813"
+						timeRelativeToTestSuiteStartTime="00:04.183"
+						timeRelativeToTestModuleStartTime="00:04.129"
+						timeWallClock="09:11:55"
+						time="00:04.183"
 						level="Info"
 						category="Website">
 						<message>

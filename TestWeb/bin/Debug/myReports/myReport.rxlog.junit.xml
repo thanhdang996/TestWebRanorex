@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuite
+	name="TestWeb"
+	tests="1"
+	failures="0"
+	errors="0"
+	time="4"
+	skipped="0"
+	timestamp="2022-09-16T02:11:51"
+	hostname="ADMIN">
+	<testcase
+		name="Bai_1"
+		time="4"
+		classname="TestWeb" />
+</testsuite>

@@ -1,7 +1,5 @@
 ﻿<Properties>
-  <Array name="active">
-    <Element value="REC\AddAccountError.rxrec" />
-  </Array>
+  <Array name="active" />
   <Array name="bookmarks" />
   <Array name="files">
     <Element value="TestWeb.rxtst" />
